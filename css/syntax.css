@@ -11,12 +11,17 @@ font-size: 22px;
 
 span{
 color:lime
-font-size: 33px;
 
 }
 
 .deck{
 color: blue;
 font-size: 11px;
+
+}
+
+a{
+color:brown;
+font-size: 15px;
 
 }
