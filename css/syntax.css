@@ -1,7 +1,28 @@
-#all-articles h2 + p{
-color: green;
-text-size: 23px;
-text-decoration: underline;
+span[class~="deck"]{
+color: rgb(197, 125, 197);
 
 
 }
+
+div[id]{
+
+
+background-color: blue;
+
+}
+
+a[href$="pdf"]{
+
+color: green;
+
+}
+
+a[href^="http"]{
+
+color:deeppink;
+
+    
+}
+
+
+
