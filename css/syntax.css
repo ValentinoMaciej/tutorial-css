@@ -1,14 +1,10 @@
-#zawartosc p{
-color: red;
-
-}
-
 p{
-color: blue;
+    color: red !important;
 
 }
 
-strong{
 
-    color: green;
+#header p{
+    color: blue;
+
 }
