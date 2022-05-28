@@ -1,6 +1,7 @@
-#zawartosc >  p{
-
-color: blue;
+#all-articles h2 + p{
+color: green;
+text-size: 23px;
+text-decoration: underline;
 
 
 }
