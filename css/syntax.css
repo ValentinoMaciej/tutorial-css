@@ -4,3 +4,14 @@ font-weight: bold;
 
 }
 
+li:nth-child(even){
+
+background: grey;
+
+}
+
+li:nth-child(odd){
+
+    background: pink;
+    
+    }
