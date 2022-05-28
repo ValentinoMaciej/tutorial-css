@@ -1,27 +1,14 @@
-h2{
-font-size: 22px;
+#zawartosc p{
+color: red;
 
 }
 
-#content-header{
-
-    font-size: 50px;
-    color:darkviolet
-}
-
-span{
-color:lime
-
-}
-
-.deck{
+p{
 color: blue;
-font-size: 11px;
 
 }
 
-a{
-color:brown;
-font-size: 15px;
+strong{
 
+    color: green;
 }
