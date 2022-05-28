@@ -1,9 +1,6 @@
-article p:first-of-type{
+li:nth-child(1), li:nth-child(8){
 
-    color: red;
+font-weight: bold;
+
 }
 
-article p:last-of-type{
-
-    color: green;
-}
