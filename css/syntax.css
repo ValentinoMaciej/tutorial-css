@@ -1,11 +1,20 @@
 a:hover{
-color:bisque;
+color: red;
 
 
 }
 
-#content-header:hover{
 
-background: blueviolet;
+a:active{
+color: green;
+
+
+
 
 }
+
+a:visited{
+    color: yellow
+    
+    
+    }
