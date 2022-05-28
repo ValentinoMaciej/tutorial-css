@@ -1,12 +1,9 @@
-article p:first-child{
-font-weight: bold;
-color:blue
+article p:first-of-type{
 
+    color: red;
 }
 
-article p:last-child{
+article p:last-of-type{
 
-color: red;
-font-size: 23px;
-
+    color: green;
 }
