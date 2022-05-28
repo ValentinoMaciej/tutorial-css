@@ -4,14 +4,8 @@ font-weight: bold;
 
 }
 
-li:nth-child(even){
+li:nth-child(2n + 1){
 
 background: grey;
 
 }
-
-li:nth-child(odd){
-
-    background: pink;
-    
-    }
