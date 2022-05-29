@@ -2,44 +2,44 @@
        padding: 20px;
        margin: 20px;
        float: left;
-       border: 10px solid blue;
+       
 }
 
 .dashed{
-
+border: 10px blue dashed
 
 }
 
 .dotted{
-
+    border: 10px blue dotted;
     
 }
 
 .double{
-
+    border: 10px blue double;
     
 }
 
 .groove{
-
+    border: 10px blue groove;
     
 }
 
 .inset{
-
+    border: 10px blue inset;
     
 }
 
 .outset{
-
+    border: 10px blue outset;
     
 }
 .ridge{
-
+    border: 10px blue ridge;
     
 }
 
 .solid{
-
+    border: 10px blue solid;
     
 }
