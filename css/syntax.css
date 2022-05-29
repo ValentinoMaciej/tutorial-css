@@ -18,5 +18,6 @@ height: 100px;
 .inline-block{
     width: 40%;
     display: inline-block;
+    border-radius: 5px;
 
 }
