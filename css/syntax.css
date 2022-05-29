@@ -1,10 +1,7 @@
-a{
-padding: 10px;
-margin: 10px;
-background-color: gray;
-border: solid #aaa;
-color: black;
-text-decoration: none;
-display: inline-block;
+#menu div{
+    background-color: #ccc;
+    margin: 0 0 20px 0;
+
+
 
 }
