@@ -1,9 +1,8 @@
-#zawartosc p{
-text-transform:lowercase;
-
+body > p{
+color:rgb(49, 129, 20);
 }
 
-body > p{
-text-transform: none;
+#wiecej-zawartosci{
+background-color: darkgoldenrod;
 
 }
