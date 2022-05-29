@@ -1,10 +1,9 @@
-h1{
+#zawartosc p{
+text-transform:lowercase;
 
-    font-weight: normal;
 }
 
-p{
-    font-weight: lighter;
-    font-family: "Yu gothic";
+body > p{
+text-transform: none;
 
 }
