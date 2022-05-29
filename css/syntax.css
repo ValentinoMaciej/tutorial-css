@@ -1,7 +1,6 @@
-p{
-
-    font-size: 12px;
-    letter-spacing: 1em;
-    word-spacing: 10px;
-    margin-bottom: 22px;
+.box{
+    padding: 30px;
+    margin: 30px;
+    border: 1px solid #000;
+    width: 200px;
 }
