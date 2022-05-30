@@ -1,15 +1,33 @@
-#banner{
-width: 100%;
-height: 300px;
-background-color: #806040;
-
+#circle1{
+width: 400px;
+height: 400px;
+position: absolute;
+background: rgb(200,200,100);
+border-radius: 200px;
+top: 50px;
+left: 50px;
 
 }
 
-/* 
 
-# R- 2 pierwsze liczby, G- 2 środkowe, B - 2 ostatnie
+#circle2{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    background: rgb(200,100,200);
+    border-radius: 200px;
+    top: 250px;
+    left: 150px;
+    
+    }
 
-Im wyższa wartość tym jasniejszy kolor z każdej palety RGB
-
-*/
+    #circle3{
+        width: 400px;
+        height: 400px;
+        position: absolute;
+        background: rgb(100,200,200);
+        border-radius: 200px;
+        top: 50px;
+        left: 250px;
+        
+        }
