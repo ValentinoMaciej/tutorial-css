@@ -15,6 +15,7 @@ background: #aadddd;
 background: -moz-linear-gradient(top, red 0%, #77aaaa 100%);
 background: -webkit-linear-gradient(top, red 0%, #77aaaa 100%);
 background: linear-gradient(top, red 0%, #77aaaa 100%);
+box-shadow: 2px 2px 4px 2px rgba(40,40,40,0.5);
 
 
 }
@@ -25,8 +26,6 @@ background: #ff4acc;
 background: -moz-linear-gradient(bottom, red 0%, #77aaaa 100%);
 background: -webkit-linear-gradient(bottom, red 0%, #77aaaa 100%);
 background: linear-gradient(bottom, red 0%, #77aaaa 100%);
-
-
 
 }
 
@@ -40,5 +39,7 @@ Dodanie preifxów dla przeglądarek konkretnych do odczytania gradientów
 
 linear-gradient komenda (pozycja, kolor %, kolor %)
 dodano trzy gradienty (browser odczytuje po kolei jak ma odczytać
+
+box-shadow dodany (poziom, pion, blurry, zakres-wielkosc cienia, kolor)
 
 */
