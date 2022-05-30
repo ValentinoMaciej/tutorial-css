@@ -1,23 +1,15 @@
 #banner{
-background-color: #606060;
 width: 100%;
 height: 300px;
-background-image: url(https://cdn.dribbble.com/users/31864/screenshots/3666062/free_logos_dribbble_ph.jpg?compress=1&resize=400x300&vertical=top), url(https://flyclipart.com/thumb2/free-logos-creator-935819.png);
-background-repeat: no-repeat;
-background-position: center, right;
-background-size: 300px, 300px;
+background-color: #806040;
 
 
 }
 
+/* 
 
+# R- 2 pierwsze liczby, G- 2 środkowe, B - 2 ostatnie
 
-
-
-/*
-
-https://cdn.dribbble.com/users/31864/screenshots/3666062/free_logos_dribbble_ph.jpg?compress=1&resize=400x300&vertical=top
-https://flyclipart.com/thumb2/free-logos-creator-935819.png
+Im wyższa wartość tym jasniejszy kolor z każdej palety RGB
 
 */
-
