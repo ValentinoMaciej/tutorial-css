@@ -19,6 +19,19 @@ background: linear-gradient(top, red 0%, #77aaaa 100%);
 
 }
 
+.button:hover{
+
+background: #ff4acc;
+background: -moz-linear-gradient(bottom, red 0%, #77aaaa 100%);
+background: -webkit-linear-gradient(bottom, red 0%, #77aaaa 100%);
+background: linear-gradient(bottom, red 0%, #77aaaa 100%);
+
+
+
+}
+
+
+
 /*
 
 Dodanie preifxów dla przeglądarek konkretnych do odczytania gradientów
@@ -26,5 +39,6 @@ Dodanie preifxów dla przeglądarek konkretnych do odczytania gradientów
 -webkit - safari chrome etc.
 
 linear-gradient komenda (pozycja, kolor %, kolor %)
+dodano trzy gradienty (browser odczytuje po kolei jak ma odczytać
 
 */
